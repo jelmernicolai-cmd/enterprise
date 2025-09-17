@@ -1,0 +1,19 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='800' height='240' viewBox='0 0 800 240'>
+  <rect width='800' height='240' rx='16' fill='#f8fafc'/>
+  <g>
+    <rect x='60' y='60' width='80' height='40' fill='#fee2e2'/>
+    <rect x='140' y='60' width='80' height='40' fill='#fecaca'/>
+    <rect x='220' y='60' width='80' height='40' fill='#fca5a5'/>
+    <rect x='300' y='60' width='80' height='40' fill='#f87171'/>
+    <rect x='380' y='60' width='80' height='40' fill='#ef4444'/>
+    <rect x='460' y='60' width='80' height='40' fill='#dc2626'/>
+  </g>
+  <g>
+    <rect x='60' y='110' width='80' height='40' fill='#e0f2fe'/>
+    <rect x='140' y='110' width='80' height='40' fill='#bae6fd'/>
+    <rect x='220' y='110' width='80' height='40' fill='#93c5fd'/>
+    <rect x='300' y='110' width='80' height='40' fill='#60a5fa'/>
+    <rect x='380' y='110' width='80' height='40' fill='#3b82f6'/>
+    <rect x='460' y='110' width='80' height='40' fill='#2563eb'/>
+  </g>
+</svg>
